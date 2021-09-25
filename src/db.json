@@ -1,0 +1,39 @@
+{
+	"menu": [
+		{
+			"title": "Салат «Цезарь»",
+			"price": 100,
+			"url": "https://static.1000.menu/img/content/21458/-salat-cezar-s-kr-salat-cezar-s-krevetkami-s-maionezom_1501173720_1_max.jpg",
+			"category": "салаты",
+			"id": 1
+		},
+		{
+			"title": "Пицца «Margherita»",
+			"price": 200,
+			"url": "https://www.academiabarilla.it/wp-content/uploads/2017/07/496-pizza-margherita.jpg",
+			"category": "пицца",
+			"id": 2
+		},
+		{
+			"title": "Пицца «Napoletana»",
+			"price": 300,
+			"url": "https://www.pizzanapoletana.org/struttura/pagine_bicolor/mobile/decalogo_avpn_1.jpg",
+			"category": "пицца",
+			"id": 3
+		},
+		{
+			"title": "Греческий салат",
+			"price": 400,
+			"url": "https://assets.epicurious.com/photos/576454fb42e4a5ed66d1df6b/master/pass/greek-salad.jpg",
+			"category": "салаты",
+			"id": 4
+		},
+		{
+			"title": "Стейк с кровью",
+			"price": 500,
+			"url": "https://i.cbc.ca/1.4491288.1516208229!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/cowboysteak.jpg",
+			"category": "мясо",
+			"id": 5
+		}
+	]
+}
