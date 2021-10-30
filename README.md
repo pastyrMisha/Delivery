@@ -3,7 +3,7 @@
 <!-- <Link to = {'/Delivery'} className="header__link">Меню</Link> -->
 <!-- in app.js -->
 <!-- <Route
-       path="/Delivery"
+     path="/Delivery"
                  component={MainPage}
         exact/>
 <Route -->
