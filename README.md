@@ -4,6 +4,6 @@
 <!-- in app.js -->
 <!-- <Route
      path="/Delivery"
-                 component={MainPage}
+              component={MainPage}
         exact/>
 <Route -->
