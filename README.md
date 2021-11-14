@@ -5,5 +5,5 @@
 <!-- <Route
  path="/Delivery"
   component={MainPage}
-        exact/>
+       exact/>
 <Route -->
