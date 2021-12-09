@@ -4,7 +4,6 @@
 <!-- in app.js -->
 <!-- <Route
 path="/Delivery"
-
 component={MainPage}
 exact/>
 <Route -->
