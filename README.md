@@ -1,3 +1,5 @@
+Delivery (React + Redux)
+https://zvendinov.ru/Delivery/
 
 <!-- in app-header.js -->
 
